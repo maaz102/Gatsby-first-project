@@ -19,6 +19,7 @@ export default function Mynavbar() {
         <Link to='/' className='links-nav-list'>Home</Link>
         <Link to='/about' className='links-nav-list'>About</Link>
         <Link to='/projects' className='links-nav-list'>Portfolio</Link>
+        <Link to='/contactus' className='links-nav-list'>Contact Us</Link>
     </div>
   )
 }
