@@ -1,0 +1,13 @@
+.nav-links{
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    text-decoration: none;
+}
+.links-nav-list{
+    color: white;
+}
+.text-center{
+    text-align: center;
+}
